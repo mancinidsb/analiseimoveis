@@ -6,7 +6,7 @@
  
   Ou seja, todo <strong>material</strong> aqui passado é <strong>pensado para iniciantes</strong> que queiram adentrar nesse mundo!
  
- O nosso <strong>objetivo</strong> é fazer uma análise centralizada na precificação de imóveis e assim, <strong>fazer previsões do preço de cada imóvel somente pela suas dimensões em metros quadrados (<strong>*m²*</strong>).
+ O nosso <strong>objetivo</strong> é fazer uma análise centralizada na precificação de imóveis e assim, </strong>fazer previsões do preço de cada imóvel somente pela suas dimensões em metros quadrados (<strong>*m²*</strong>).
 
 ## 2 - Bibliotecas usadas
 
