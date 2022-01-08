@@ -1,9 +1,13 @@
 # Projeto Análise De Imóveis
- Nesse projeto, iremos analisar um banco de dados de imóveis e iremos estimar o preço de uma casa usando a tecnologia de machine learning.
+ Nesse projeto, iremos <strong>analisar um banco de dados</strong> de imóveis e iremos <strong>estimar o preço de uma casa usando</strong> a tecnologia de <strong>machine learning</strong>.
 
 ## 1 - Um pouco mais sobre o projeto e seus objetivos
- Esse projeto foi pensado para pessoas que não tem um grande conhecimento sobre machine learning, mas mesmo assim, se inyteressa pelo assunto e/ou é curioso pelo assunto.
+ <strong>Esse projeto foi pensado para pessoas que não tem um grande conhecimento ou nenhum sobre machine learning</strong>, mas mesmo assim, se interessa pelo assunto e/ou é curioso pelo assunto.
  
- Ou seja, todo material aqui passado é pensado para iniciantes que queiram adentrar nesse mundo!
+  Ou seja, todo <strong>material</strong> aqui passado é <strong>pensado para iniciantes</strong> que queiram adentrar nesse mundo!
  
- O nosso objetivo é fazer uma análise centralisada na precificação de imóveis e assim fazer previsões do preço de cada imóvel somente pela suas dimensões em metros quadrados (*m²*)
+ O nosso <strong>objetivo</strong> é fazer uma análise centralizada na precificação de imóveis e assim, <strong>fazer previsões do preço de cada imóvel somente pela suas dimensões em metros quadrados (<strong>*m²*</strong>).
+
+## 2 - Bibliotecas usadas
+
+Nesse projeto iremos usar as seguintes bibliotecas: 
